@@ -1,8 +1,8 @@
 <div align="center"> 
  
-![peak fr](https://github.com/user-attachments/assets/54e99247-5d51-4ab1-9523-7729fb802afc)
+<img width="299" height="110" alt="image" src="https://github.com/user-attachments/assets/408be895-7d8d-478a-acfd-91652853ad95" />
 
- <div align="center"> 
+<div align="center"> 
 
 ![](https://komarev.com/ghpvc/?username=bubblymoth&amp;color=blueviolet&amp;label=★+Alolan+Raichulings  )
 
